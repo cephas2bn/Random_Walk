@@ -1,4 +1,3 @@
-
 # Random Walk Simulation
 
 This project is a simple visual demonstration of a random walk in two dimensions. A random walk is a path made up of a sequence of random steps. It is an important concept in probability and statistics because it models many real-world processes, such as the motion of particles in fluids, fluctuations in stock prices, and diffusion in physics.
@@ -43,7 +42,7 @@ While the program is running, you can use these keys:
 
 Below is an example screenshot of the simulation in action. You can create your own by pressing **S** while the program is running.
 
-![Screenshot of Random Walk](https://chatgpt.com/c/random_walk_frame.png)
+![Random Walk Example](./random_walk_frame.png)
 
 ---
 
